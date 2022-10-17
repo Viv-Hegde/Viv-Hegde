@@ -14,7 +14,7 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<!-- <p>&nbsp;</p> -->
+<p>&nbsp;</p>
 
 <a href="https://www.linkedin.com/in/viv-hegde/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viv-Hegde&layout=compact)
