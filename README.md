@@ -11,13 +11,14 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
 <a href="https://www.linkedin.com/in/viv-hegde/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viv-Hegde&layout=compact)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Viv-Hegde&count_private=true&show_icons=true&hide=contribs)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <!--
 **Viv-Hegde/Viv-Hegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
